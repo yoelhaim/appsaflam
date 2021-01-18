@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">مسلسلات صينية </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9225575939386535/5593080174
+</string>
+    <string name="banner">ca-app-pub-9225575939386535/1453883986</string>
+
+<!--    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712-->
+<!--</string>-->
+<!--    <string name="banner">ca-app-pub-3940256099942544/6300978111</string>-->
+</resources>

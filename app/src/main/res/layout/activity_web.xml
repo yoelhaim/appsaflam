@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context=".view.webActivity">
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/refresh">
+        <WebView
+            android:id="@+id/WebViews"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+        </WebView>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/progressBarweb"
+        style="@style/AVLoadingIndicatorView"
+        app:indicatorName="BallScaleRippleMultipleIndicator"
+        android:layout_width="67dp"
+        android:layout_height="66dp"
+        android:layout_gravity="center"
+        android:background="@drawable/rondbut"
+        android:padding="5dp"
+        android:visibility="visible"
+        app:indicatorColor="#FF5722"/>
+
+
+    <com.google.android.gms.ads.NativeExpressAdView
+        android:id="@+id/adView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        ads:adSize="320x150"
+        ads:adUnitId="@string/interstitial_ad_unit_id"
+        tools:ignore="MissingConstraints" />
+</FrameLayout>

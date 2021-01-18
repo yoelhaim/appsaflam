@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "854264426204",
+    "firebase_url": "https://twins-25432.firebaseio.com",
+    "project_id": "twins-25432",
+    "storage_bucket": "twins-25432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854264426204:android:1823464c89136940374e19",
+        "android_client_info": {
+          "package_name": "com.beinmatch.livebotola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854264426204-5b0964laimt7v5qmq3rf1r2rteo6ghgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoLr80RXOh-EdMjLuxIet5kHAkEKzgRTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854264426204-5b0964laimt7v5qmq3rf1r2rteo6ghgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854264426204:android:139261a9c8919016374e19",
+        "android_client_info": {
+          "package_name": "com.marhabaa.seriechinnes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854264426204-5b0964laimt7v5qmq3rf1r2rteo6ghgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoLr80RXOh-EdMjLuxIet5kHAkEKzgRTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854264426204-5b0964laimt7v5qmq3rf1r2rteo6ghgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854264426204:android:4615a429ef941309374e19",
+        "android_client_info": {
+          "package_name": "com.youss.twinspictures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854264426204-5b0964laimt7v5qmq3rf1r2rteo6ghgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoLr80RXOh-EdMjLuxIet5kHAkEKzgRTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854264426204-5b0964laimt7v5qmq3rf1r2rteo6ghgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
